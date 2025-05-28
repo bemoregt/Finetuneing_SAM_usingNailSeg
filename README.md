@@ -2,6 +2,8 @@
 
 This project demonstrates how to fine-tune Meta's Segment Anything Model (SAM) with a novel FFT-based self-attention mechanism for nail segmentation tasks. The implementation replaces traditional self-attention layers with Fast Fourier Transform (FFT) based attention to potentially improve computational efficiency.
 
+![Nail Segmentation Example](nailseg.png)
+
 ## Key Features
 
 - **FFT-based Self-Attention**: Custom implementation replacing standard multi-head attention with FFT-based attention mechanism
